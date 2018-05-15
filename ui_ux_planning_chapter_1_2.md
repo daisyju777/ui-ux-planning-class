@@ -1,4 +1,4 @@
-# UI/UX 기획 입문 해설
+# UI/UX 기획 입문 해설 Chapter 1, 2
 
 **작성자** : 정래진 (jrj8819@naver.com)
 
