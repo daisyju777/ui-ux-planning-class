@@ -16,7 +16,7 @@
 
 #### 메뉴와 로그인 전후 화면 설계하기
 
-![](/Users/raejin/ui-ux-planning/img/img69.png)
+![](./img/img69.png)
 
 
 

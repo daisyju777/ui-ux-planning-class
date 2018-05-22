@@ -123,7 +123,7 @@
 
 화면 정의서의 내용이 바뀔 때마다 버전을 정해 기록해 두면 몇가지 장점이 있다. 첫째로 수정된 내용을 찾아보기 편하다. 기획을 빈틈없이 진행해도 클라이언트의 요청, 작업 내용의 변경 등이 있다면, 기존의 기획 내용을 수정해야한다. 이 때 수정한 부분에 대해서 명시해놓은 '문서 이력'을 활용하면 작업에 도움이 된다. 둘째로, 피드백을 할 수 있다. 여러 가지 문제로 이전 버전으로 되돌려야 되는 경우에 버전을 몇개 작성하였으며 어느 버전이 가장 좋은 방법임을 되짚어보는 자료가 된다. 문서 이력 작성의 예는 아래 그림과 같다.
 
-![](/Users/raejin/ui-ux-planning/img/img43.png)
+![](./img/img43.png)
 
 
 
@@ -138,15 +138,15 @@
 
 사이트 맵은 웹 사이트에 설계해야 할 메뉴를 정리해 놓은 문서이다. 사이트 맵은 웹 사이트에 속해있는 웹 페이지를 한눈에 파악할 수 있어야 한다.  웹 사이트가 많은 웹 페이지를 담고 있어 다이어그램으로 표현하기 힘들다면 표 형태로 구성하여도 좋다.
 
-![](/Users/raejin/ui-ux-planning/img/img44.png)
+![](./img/img44.png)
 
-![](/Users/raejin/ui-ux-planning/img/img45.png)
+![](./img/img45.png)
 
 
 
 ##### 본문 내용
 
-![](/Users/raejin/ui-ux-planning/img/img46.png)
+![](./img/img46.png)
 
 1. 화면 이름 : 화면이름은 해당 화면의 이름을 작성하는 부분이다. 화면이 담고 있는 내용 및 기능에 대해 이용자의 관점에서 작성한다. 
 2. URL : URL은 화면의 실제 웹 주소는 표시하는 부분이다.  내가 작성한 기획 내용과 퍼블리싱된 내용을 비교하기 편리하고, 수정 내용이 있을 경우 해당 웹 페이지를 쉽게 찾을 수 있다.
@@ -157,7 +157,7 @@
 
 ##### 본문 작성 순서
 
-![](/Users/raejin/ui-ux-planning/img/img47.png)
+![](./img/img47.png)
 
 1. 순서대로 모든 화면을 대략 스케치한다.
 
@@ -191,13 +191,13 @@
 
    - 참고 사이트 : 안드로이드 머티리얼 디자인 (https://material.io/tools/icons)
 
-![](/Users/raejin/ui-ux-planning/img/img48.png)
+![](./img/img48.png)
 
 4. 데이터가 호출되는 부분은 중괄호{}로 표시하자
 
    웹 쇼핑몰을 만들 때 상품 수 대로 상품 소개 화면을 만들지 않는다. 대신 화면 구성은 하나만 만들고 데이터를 호출하는 방식으로 화면 구성을 반복하여 사용한다.  이때 데이터 호출이 필요한 부분은 중괄호로 묶어 '{항목명}'으로 표기한다. 
 
-![](/Users/raejin/ui-ux-planning/img/img49.png)
+![](./img/img49.png)
 
 
 
@@ -205,9 +205,9 @@
 
    웹 사이트 화면은 위, 아래로 스크롤 할 수 있다. 긴 화면을 표현하기 어려울 경우는 한 화면을 나누어 표현한다. 이처럼 화면을 나누었을 때는 아래처럼 스케치 화면의 위 또는 아래에 도형을 삽입하여 화면이 서로 연결됨을 나타낸다.
 
-![](/Users/raejin/ui-ux-planning/img/img50.png)
+![](./img/img50.png)
 
-![](/Users/raejin/ui-ux-planning/img/img51.png)
+![](./img/img51.png)
 
 
 
@@ -221,7 +221,7 @@
 
    웹 페이지 화면은 세로 화면이 길게 구성되어 있는 경우가 많다. 웹 화면이 길어서 화면을 여러 슬라이드로 나누어 작성했다면, 현재 보고 있는 화면 정의가 어느 순서인지 알 수 있도록 설명 부분 위에 화면의 순서를 표시한다.
 
-![](/Users/raejin/ui-ux-planning/img/img52.png)
+![](./img/img52.png)
 
 3. 기능 설명은 웹에서 동작되는 상황 그대로 설명한다.
 
@@ -263,7 +263,7 @@
 
 다음은 일반적인 회원 가입 화면이다. 스케치를 보고 각 번호에 해당하는 설명을 완성하시오.
 
-![](/Users/raejin/ui-ux-planning/img/img53.png)
+![](./img/img53.png)
 
 
 
@@ -343,31 +343,31 @@
 
 1. 서비스를 활용하려면 Oven 서비스에 가입을 해야한다. Oven 웹 페이지 (https://ovenapp.io)의 '새 계정 만들기' 버튼을 클릭하자.
 
-![](/Users/raejin/ui-ux-planning/img/img54.png)
+![](./img/img54.png)
 
 
 
 2. 이메일, 이메일 주소확인, 유저 이름, 비밀번호 등을 입력하고 '새 계정 만들기' 버튼을 선택하여 회원에 가입하자.
 
-![](/Users/raejin/ui-ux-planning/img/img55.png)
+![](./img/img55.png)
 
 
 
 3. 회원 가입 후 안내 메시지, 회원가입 시 작성한 이메일에서 이메일 인증을 마치면 Standard 계정으로 무료 업그레이드 할 수 있다.
 
-![](/Users/raejin/ui-ux-planning/img/img56.png)
+![](./img/img56.png)
 
 
 
 - Free VS Standard
 
-![](/Users/raejin/ui-ux-planning/img/img57.png)
+![](./img/img57.png)
 
 
 
 4. 프로젝트 대쉬보드 화면
 
-![](/Users/raejin/ui-ux-planning/img/img58.png)
+![](./img/img58.png)
 
 
 
@@ -375,7 +375,7 @@
 
 1. 프로젝트 대쉬보드 화면에서 '새로운 프로젝트 만들기' 버튼을 선택하자.
 
-![](/Users/raejin/ui-ux-planning/img/img59.png)
+![](./img/img59.png)
 
 
 
@@ -383,25 +383,25 @@
 
    *테스트URL 공유 선택란에서 '특정 사용자에게만 허용'에서는 프로젝트의 '공유옵션'에서 선택한 사용자만 프로젝트를 공유할 수 있다. 해당 사용자는 Oven 서비스에 가입되어 있어야 한다.
 
-![](/Users/raejin/ui-ux-planning/img/img60.png)
+![](./img/img60.png)
 
 
 
 3. 생성된 프로젝트를 더블 클릭하면 프로젝트 빌더 화면으로 이동한다.
 
-![](/Users/raejin/ui-ux-planning/img/img62.png)
+![](./img/img62.png)
 
 
 
 - 프로젝트 빌더 화면
 
-![](/Users/raejin/ui-ux-planning/img/img63.png)
+![](./img/img63.png)
 
 
 
 #### 프로젝트 빌더 화면 구성
 
-![](/Users/raejin/ui-ux-planning/img/img64.png)
+![](./img/img64.png)
 
 1. 페이지 목록 : 작업한 페이지를 표시하는 목록, *페이지는 파워포인트의 슬라이드와 같은 개념
 2. 편집 캔버스 : 웹 페이지를 수정하기 위한 부분
@@ -417,7 +417,7 @@
 
 아래 그림은 모 포탈사이트의 메인화면을 보고 작성한 화면이다. 오브젝트 목록의 요소들을 이용하여 그림과 같이 배치하자.
 
-![](/Users/raejin/ui-ux-planning/img/img65.png)
+![](./img/img65.png)
 
 ##### 문제2
 
@@ -425,11 +425,11 @@
 
 - airbnb
 
-![](/Users/raejin/ui-ux-planning/img/img66.png)
+![](./img/img66.png)
 
 - youtube (Mobile)
 
-![](/Users/raejin/ui-ux-planning/img/img68.png)
+![](./img/img68.png)
 
 
 
